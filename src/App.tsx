@@ -1,4 +1,4 @@
-import { Select, SelectOption } from "./Select";
+import { Select, SelectOption } from "./Widgets/Select";
 import { useState } from "react";
 
 const options = [
